@@ -13,4 +13,4 @@ de las áreas de la organización.
 
 ## Integrantes
 
-- Eugenia Ávila Ruiz
+- Eugenia Avila Ruiz
