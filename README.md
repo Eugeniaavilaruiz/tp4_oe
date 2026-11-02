@@ -32,6 +32,24 @@ Para la auditoría técnica del sistema se definen los siguientes indicadores, c
 
 Los indicadores de pagos rechazados y de reservas canceladas por vencimiento miden directamente las excepciones modeladas en el BPMN.
 
+
+## Declaración de Uso de IA
+
+Para esta entrega se utilizó Claude (Anthropic) como asistente de Inteligencia Artificial Generativa. A continuación se detallan los principales prompts, su propósito y las correcciones realizadas por la autora.
+
+| Prompt (resumen) | Propósito | Resultado y corrección humana |
+|---|---|---|
+| "Ayudame a hacer esta entrega del trabajo integrador" (con la consigna y el material de la Unidad 5) | Interpretar la consigna y organizar las tareas | La IA propuso agregados que la consigna no pedía (máquina de estados, indicadores adicionales). La autora decidió limitar el trabajo estrictamente a lo solicitado. |
+| Envío de las Entregas 1, 2 y 3 | Mantener la coherencia con lo ya aprobado | La IA asumió que las historias de usuario estaban definidas en la Entrega 3. La autora verificó la consigna de esa entrega, confirmó que no se habían pedido y se definieron en esta entrega. |
+| Pedido de la estructura del BPMN | Obtener una base de pools, lanes, tareas y compuertas | La autora dibujó el diagrama en Bizagi, ajustó el orden de los lanes y corrigió un flujo de mensaje que no llegaba al evento correspondiente. |
+| Consulta sobre la revisión de pares del Pull Request | Resolver cómo cumplir la revisión trabajando sola | La IA recomendó conseguir un revisor externo. La autora aportó la indicación del docente para realizar una autorrevisión documentada, que fue la opción adoptada. |
+| Pedido de pasos para Git, GitHub y GitHub Projects | Guía para crear el repositorio, las ramas, el PR y el tablero | La autora ejecutó cada paso y verificó los resultados en la plataforma. |
+
+La IA se usó como guía y para generar borradores. Las decisiones sobre el alcance, la elaboración del diagrama y la verificación del contenido fueron de la autora, que es responsable de la versión final.
+
+Enlace de la conversación: [LINK_DE_LA_CONVERSACIÓN](https://claude.ai/share/4a3ec606-3ddd-4afa-8a00-57ff1dbcaffc)
+
+
 ## Integrantes
 
 - Eugenia Avila Ruiz
